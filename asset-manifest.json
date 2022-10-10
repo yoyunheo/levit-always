@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/levit-always/static/css/main.178ab4e0.css",
-    "main.js": "/levit-always/static/js/main.f4c5dfc2.js",
+    "main.js": "/levit-always/static/js/main.7ed01b94.js",
     "static/js/787.1756a8bf.chunk.js": "/levit-always/static/js/787.1756a8bf.chunk.js",
     "static/media/IsCheapestImage.png": "/levit-always/static/media/IsCheapestImage.d541bcb455194b7c6936.png",
     "static/media/AppIcon.png": "/levit-always/static/media/AppIcon.0ad17f51430ddffcf430.png",
     "index.html": "/levit-always/index.html",
     "main.178ab4e0.css.map": "/levit-always/static/css/main.178ab4e0.css.map",
-    "main.f4c5dfc2.js.map": "/levit-always/static/js/main.f4c5dfc2.js.map",
+    "main.7ed01b94.js.map": "/levit-always/static/js/main.7ed01b94.js.map",
     "787.1756a8bf.chunk.js.map": "/levit-always/static/js/787.1756a8bf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.178ab4e0.css",
-    "static/js/main.f4c5dfc2.js"
+    "static/js/main.7ed01b94.js"
   ]
 }
