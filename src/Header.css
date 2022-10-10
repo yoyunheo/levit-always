@@ -1,0 +1,9 @@
+.Box {
+    position: absolute;
+    padding: 8px 16px;
+    top: 12px;
+    left: 13px;
+    right: 13px;
+    height: 72px;
+    background-color:red;
+}
